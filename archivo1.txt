@@ -1,0 +1,6 @@
+<script_reporte_1>
+   Obtener datos de origen : BD / EXCEL / TXT.
+   Realizar limpieza de datos
+   Registrar datos limpios en BD ORACLE
+<script_reporte_1>
+
